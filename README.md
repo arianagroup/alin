@@ -35,7 +35,7 @@ Sistem reservasi restoran modern dengan Laravel dan React.
 
 1. Clone repository to Herd directory
 ```bash
-git clone https://github.com/ariangroup/alin.git
+git clone https://github.com/arianagroup/alin.git
 cd alin
 ```
 
